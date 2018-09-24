@@ -15,7 +15,7 @@ namespace dotnetcore_sample.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "Your application description page on 24/09/2018 12:55";
 
             return View();
         }
